@@ -1,0 +1,40 @@
+.wrapper{
+    min-height: 100%;
+    position: relative;
+}
+
+.content{
+    padding-bottom: 100px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 10px;
+    height: 60px;
+}
+
+body, html{
+    height: 100%;
+}
+
+.search{
+    background-color: #DAE0E2;
+    height: 4em;
+}
+
+.checkbox{
+    margin-top: 0.5%;
+}
+
+.search div form{
+    padding-top: 1em;
+}
+
+.status-header{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.singleTodo{
+    margin-bottom: 1%;
+}
